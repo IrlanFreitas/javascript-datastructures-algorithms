@@ -1,2 +1,2 @@
-# -javascript-datastructures-algorithms
+# Javascript Datastructures Algorithms
 📚 collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book
